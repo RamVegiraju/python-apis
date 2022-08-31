@@ -10,3 +10,10 @@ names.get_last_name()
 ```
 
 * [missingno](https://github.com/ResidentMario/missingno): Missing values in a dataframe
+
+
+## ML Web Apps
+
+* [Streamlit](https://github.com/streamlit/streamlit)
+
+* [Gradio](https://github.com/gradio-app/gradio)
